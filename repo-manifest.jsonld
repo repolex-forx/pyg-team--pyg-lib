@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/pyg-team/pyg-lib/commit/d13e20662aaa075c82ab9c814f8c39789425bf7a",
       "git:hexsha": "d13e20662aaa075c82ab9c814f8c39789425bf7a",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/pyg-team/pyg-lib/commit/2eab973e6c6b5cb1209b0148f4547742a64f4d89",
